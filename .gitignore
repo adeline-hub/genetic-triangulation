@@ -1,0 +1,11 @@
+# Ignore genetic data files
+*.csv
+*.xlsx
+*.xls
+data/
+
+# Ignore Python cache & virtual environments
+__pycache__/
+*.pyc
+venv/
+env/
