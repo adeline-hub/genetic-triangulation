@@ -53,6 +53,7 @@ python app.py
   <!-- REPLACE THE LINK BELOW WITH YOUR ACTUAL PHOTO URL -->
   <img src="https://github.com/adeline-hub/genetic-triangulation/blob/main/Tringulation-toolkitv1.png?raw=true" alt="genetic-triangulation" style="border-radius: 50%; width: 200px; height: 200px;">
 </div>
+
 ## Disclaimer
 
 Genetic data is personal health information. This toolkit operates locally to ensure your raw genomic data is never transmitted to third-party cloud servers. Use responsibly when investigating sensitive family history.
