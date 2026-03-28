@@ -51,7 +51,7 @@ python app.py
 
 <div align="center">
   <!-- REPLACE THE LINK BELOW WITH YOUR ACTUAL PHOTO URL -->
-  <img src="https://github.com/adeline-hub/genetic-triangulation/blob/main/assets/Tringulation-toolkitv1.png?raw=true" alt="genetic-triangulation" style="border-radius: 50%; width: 200px; height: 200px;">
+  <img src="https://github.com/adeline-hub/genetic-triangulation/blob/main/assets/Tringulation-toolkitv1.png?raw=true" alt="genetic-triangulation" style="border-radius: 50%; width: 1000px; height: 600px;">
 </div>
 
 ## Disclaimer
