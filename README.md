@@ -6,7 +6,7 @@
 
 **Objective**: To systematically map autosomal DNA segments to verify ancestral lineages, perform ethnic clustering, and identify unknown biological connections (e.g., potential half-siblings/paternal-maternal lines) through triangulation.
 
-
+**Output**: https://genetic-triangulation.onrender.com
 
 
 ## The Forensic Workflow
